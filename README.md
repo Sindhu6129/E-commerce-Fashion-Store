@@ -1,1 +1,1 @@
-# E-commerce-Fashion-Store
+# E-commerce-Shoe-Store
